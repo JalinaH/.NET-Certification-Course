@@ -146,11 +146,16 @@ do
                 // #7 Search combined descriptions and report results
                 dogDescription = ourAnimals[i, 4] + "\n" + ourAnimals[i, 5];
                 if (dogDescription.Contains(dogCharacteristic))
-                    {
-                        Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match!");
-                        Console.WriteLine(dogDescription);
-                    }
+                {
+                    Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match!");
+                    Console.WriteLine(dogDescription);
+                    noMatchesDog = false;   
+                }
             }
+        }
+        if (noMatchesDog)
+        {
+            Console.WriteLine("None of our dogs are a match found for: " + dogCharacteristic);
         }
         Console.WriteLine("Press the Enter key to continue.");
         readResult = Console.ReadLine();
