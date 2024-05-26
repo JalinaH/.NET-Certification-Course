@@ -1,0 +1,15 @@
+D:\Work\.NET Certification Course\PetSearch\bin\Debug\net8.0\PetSearch.exe
+D:\Work\.NET Certification Course\PetSearch\bin\Debug\net8.0\PetSearch.deps.json
+D:\Work\.NET Certification Course\PetSearch\bin\Debug\net8.0\PetSearch.runtimeconfig.json
+D:\Work\.NET Certification Course\PetSearch\bin\Debug\net8.0\PetSearch.dll
+D:\Work\.NET Certification Course\PetSearch\bin\Debug\net8.0\PetSearch.pdb
+D:\Work\.NET Certification Course\PetSearch\obj\Debug\net8.0\PetSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\.NET Certification Course\PetSearch\obj\Debug\net8.0\PetSearch.AssemblyInfoInputs.cache
+D:\Work\.NET Certification Course\PetSearch\obj\Debug\net8.0\PetSearch.AssemblyInfo.cs
+D:\Work\.NET Certification Course\PetSearch\obj\Debug\net8.0\PetSearch.csproj.CoreCompileInputs.cache
+D:\Work\.NET Certification Course\PetSearch\obj\Debug\net8.0\PetSearch.sourcelink.json
+D:\Work\.NET Certification Course\PetSearch\obj\Debug\net8.0\PetSearch.dll
+D:\Work\.NET Certification Course\PetSearch\obj\Debug\net8.0\refint\PetSearch.dll
+D:\Work\.NET Certification Course\PetSearch\obj\Debug\net8.0\PetSearch.pdb
+D:\Work\.NET Certification Course\PetSearch\obj\Debug\net8.0\PetSearch.genruntimeconfig.cache
+D:\Work\.NET Certification Course\PetSearch\obj\Debug\net8.0\ref\PetSearch.dll

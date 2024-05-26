@@ -1,0 +1,15 @@
+D:\Work\.NET Certification Course\CalculateFinalGPA\bin\Debug\net8.0\CalculateFinalGPA.exe
+D:\Work\.NET Certification Course\CalculateFinalGPA\bin\Debug\net8.0\CalculateFinalGPA.deps.json
+D:\Work\.NET Certification Course\CalculateFinalGPA\bin\Debug\net8.0\CalculateFinalGPA.runtimeconfig.json
+D:\Work\.NET Certification Course\CalculateFinalGPA\bin\Debug\net8.0\CalculateFinalGPA.dll
+D:\Work\.NET Certification Course\CalculateFinalGPA\bin\Debug\net8.0\CalculateFinalGPA.pdb
+D:\Work\.NET Certification Course\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\.NET Certification Course\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.AssemblyInfoInputs.cache
+D:\Work\.NET Certification Course\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.AssemblyInfo.cs
+D:\Work\.NET Certification Course\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.csproj.CoreCompileInputs.cache
+D:\Work\.NET Certification Course\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.sourcelink.json
+D:\Work\.NET Certification Course\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.dll
+D:\Work\.NET Certification Course\CalculateFinalGPA\obj\Debug\net8.0\refint\CalculateFinalGPA.dll
+D:\Work\.NET Certification Course\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.pdb
+D:\Work\.NET Certification Course\CalculateFinalGPA\obj\Debug\net8.0\CalculateFinalGPA.genruntimeconfig.cache
+D:\Work\.NET Certification Course\CalculateFinalGPA\obj\Debug\net8.0\ref\CalculateFinalGPA.dll
