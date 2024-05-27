@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj": {}
+    "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\final\\Final.csproj": {}
   },
   "projects": {
-    "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj": {
+    "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\final\\Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+        "projectUniqueName": "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\final\\Final.csproj",
         "projectName": "Final",
-        "projectPath": "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+        "projectPath": "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\final\\Final.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\obj\\",
+        "outputPath": "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
