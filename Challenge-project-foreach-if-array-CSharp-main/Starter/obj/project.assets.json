@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
+      "projectUniqueName": "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\Starter\\Starter.csproj",
       "projectName": "Starter",
-      "projectPath": "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
+      "projectPath": "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\Starter\\Starter.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\obj\\",
+      "outputPath": "D:\\Work\\.NET Certification Course\\Challenge-project-foreach-if-array-CSharp-main\\Starter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
