@@ -11,23 +11,26 @@ int[] loganScores = new int[] { 90, 95, 87, 88, 96 };
 // Student names
 string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
 
+int[] studentScores = new int[10];
+
 foreach (string name in studentNames)
 {
-    Console.WriteLine($"{name}");
-    
-int sophiaSum = 0;
+    if(name == "Sophia")
+    {
+        int sophiaSum = 0;
 
-decimal sophiaScore;
+        decimal sophiaScore;
 
-foreach (int score in sophiaScores)
-{
-    sophiaSum += score;
-}
+        foreach (int score in sophiaScores)
+        {
+            sophiaSum += score;
+        }
 
-sophiaScore = (decimal)sophiaSum / currentAssignments;
+        sophiaScore = (decimal)sophiaSum / currentAssignments;
 
-Console.WriteLine("Student\t\tGrade\n");
-Console.WriteLine("Sophia:\t\t" + sophiaScore + "\tA-");
+        Console.WriteLine("Student\t\tGrade\n");
+        Console.WriteLine("Sophia:\t\t" + sophiaScore + "\tA-");
+    }
 }
 
 
