@@ -74,6 +74,13 @@ for (int i = 0; i < maxPets; i++)
 
 // display the top-level menu options
 
+do
+{
+    // pause code execution
+readResult = Console.ReadLine();
+
+}while (menuSelection != "exit");
+
 Console.Clear();
 
 Console.WriteLine("Welcome to the Contoso PetFriends app. Your main menu options are:");
