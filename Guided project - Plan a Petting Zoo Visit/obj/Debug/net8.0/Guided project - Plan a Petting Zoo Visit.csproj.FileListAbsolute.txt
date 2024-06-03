@@ -1,0 +1,15 @@
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\bin\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.exe
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\bin\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.deps.json
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\bin\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.runtimeconfig.json
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\bin\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.dll
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\bin\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.pdb
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.AssemblyInfoInputs.cache
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.AssemblyInfo.cs
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.csproj.CoreCompileInputs.cache
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.sourcelink.json
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.dll
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\obj\Debug\net8.0\refint\Guided project - Plan a Petting Zoo Visit.dll
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.pdb
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided project - Plan a Petting Zoo Visit.genruntimeconfig.cache
+D:\Work\.NET Certification Course\Guided project - Plan a Petting Zoo Visit\obj\Debug\net8.0\ref\Guided project - Plan a Petting Zoo Visit.dll
